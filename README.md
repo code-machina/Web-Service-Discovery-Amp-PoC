@@ -7,6 +7,6 @@ I'm not Akamai so ill be waiting to see their report, but from what I can measur
 
 I've scanned and filtered a list that will be alongside this script.
 
-`WSD_3702.pkt - Zmap payload ("<\xaa>" or any WSD centric discovery payload will work)`
-`wsd.c - Standard socket template with my corrections`
-`wsd.list - Example amp list`
+- WSD_3702.pkt - Zmap payload ("<\xaa>" or any WSD centric discovery payload will work)
+- wsd.c - Standard socket template with my corrections
+- wsd.list - Example amp list
