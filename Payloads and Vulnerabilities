@@ -16,3 +16,8 @@ Adding Admin account could lead to complete takeover and loading MIPS/Arm Mirai 
     </tds:User>
 </tds:CreateUsers>
 -------------------------------
+
+Reboot the IPC's:
+-------------------------------
+<tds:SystemReboot/>
+-------------------------------
