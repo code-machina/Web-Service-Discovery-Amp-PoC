@@ -1,5 +1,7 @@
 # Web Service Discovery protocol amplification PoC (port 3702)
 
+Edit: This has now been reported on and referenced by NETSCOUT and ZDNet. https://www.zdnet.com/article/protocol-used-by-630000-devices-can-be-abused-for-devastating-ddos-attacks/
+
 Yet another bloody UDP insecure service, this time similar to other abused SOAP protocols but needing no trigger payload.
 Shodan showed 216,313 possible reflectors with the biggest number from Vietnam followed by United States.
 
